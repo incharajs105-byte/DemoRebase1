@@ -1,1 +1,3 @@
 I am starting with a new commit
+This is my new git file
+git
